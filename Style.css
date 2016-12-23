@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+
+ul {
+  	list-style-type: none;
+	background-color: #A90002;
+    margin: 0;
+    padding: 0;
+	overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+	padding: 10px 10px;
+	text-align: center;
+    color: white; 
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #5E0A0B;
+}
+
+h1{color:#000000;
+	font-weight:bold;
+		margin: auto;
+	line-height:normal;
+	}
+body{background-color:#000000;}
+
+p{display:block;
+padding: 10px 10px;
+color:#FBFBFB}
+
+table{color: #FFFFFF}
+
